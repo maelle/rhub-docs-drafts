@@ -10,10 +10,10 @@ If you're only doing this sporadically, you can use R-hub builder to build your 
 
 If you want to regularly build and deploy your package on different platforms, what you are looking for is _continuous integration_ (LINK TO external thing explaining what CI is?).
 
-* R-hub CI. COMING SOON.
+* R-hub CI. Not at the moment, but eventually R-hub will offer a CI service, unsurprisingly specific to R packages.
 
-* Appveyor (Windows). Each build has a tab with artefacts, and you could automate the workflow with scripts.
+* Appveyor (Windows). Each build has a [tab with artefacts](https://ci.appveyor.com/project/jeroen/gifski/build/job/g3ryly3s833lomlk/artifacts), and you could automate the workflow with scripts. Refer to [Appveyor docs](https://www.appveyor.com/docs/).
 
-* Travis (MacOS, Linux, soon Windows). https://docs.travis-ci.com/user/uploading-artifacts/
+* Travis (MacOS, Linux, soon Windows). Refer to [Travis docs](https://docs.travis-ci.com/), for instance [the page about uploading artefacts](https://docs.travis-ci.com/user/uploading-artifacts/).
 
 * Other CI surely have something similar.
