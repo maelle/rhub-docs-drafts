@@ -1,0 +1,1 @@
+Is the structure presented inhttps://github.com/r-hub/presentations/blob/master/2016-06-22-webinar/r-hub.Rmd#L130 up to date?

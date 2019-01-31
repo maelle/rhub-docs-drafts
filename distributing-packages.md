@@ -6,6 +6,8 @@ Imagine you want to share your package with colleague working on a different ope
 
 If you're only doing this sporadically, you can use R-hub builder to build your package on the platform corresponding to your colleague's computer. In the email you'll receive after a (hopefully successful) build, there's a link to _artefacts_ i.e. the built package that you can download and send to your colleague. You can also retrieve the link to _artefacts_ using `rhub`. ADD CODE ONCE THERE IS A METHOD.
 
+ADD HOW LONG ARTEFACTS ARE KEPT
+
 ## Regularly
 
 If you want to regularly build and deploy your package on different platforms, what you are looking for is _continuous integration_ (LINK TO external thing explaining what CI is?).
