@@ -14,6 +14,8 @@ Lists in
 * https://masalmon.eu/2017/12/11/goodrpackages/
 * https://ropensci.github.io/dev_guide/contributingguide.html#prerequisites-for-package-development
 
+CRAN submission tips https://github.com/ThinkR-open/prepare-for-cran
+
 ### Places to ask questions
 
 No cross-posting blabla.
