@@ -2,9 +2,11 @@
 
 ## About R-hub in particular
 
-* gitter
+* [R-hub community on gitter](https://gitter.im/r-hub/community)
 
-* rhub issue tracker
+* [`rhub` issue tracker, for any feedback](https://github.com/r-hub/rhub)
+
+* If you need to communicate sensitive information, contact admin@r-hub.io Otherwise please use the two public spaces mentioned above.
 
 ## About R package development in general
 
@@ -22,11 +24,11 @@ Refer to lists of resources in
 * https://ropensci.github.io/dev_guide/contributingguide.html#prerequisites-for-package-development
 * https://masalmon.eu/2017/12/11/goodrpackages/
 
-CRAN submission tips https://github.com/ThinkR-open/prepare-for-cran
+Read CRAN submission tips on [ThinkR's collaborative `prepare-for-cran` repo](https://github.com/ThinkR-open/prepare-for-cran).
 
 ### Places to ask questions
 
-There are several relevant places to ask questions related to R package development.
+There are several relevant places to ask questions related to R package development. Do not cross post your question silmutaneously in several places, but obviously you can re-post your question elsewhere if you have not got any answer after a while.
 
 * [R-package-devel mailing list](https://stat.ethz.ch/mailman/listinfo/r-package-devel). Perfect if you like emails! [Read the archives](https://stat.ethz.ch/pipermail/r-package-devel/) to get a feel for it.
 
