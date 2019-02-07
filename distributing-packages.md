@@ -18,4 +18,6 @@ If you want to regularly build and deploy your package on different platforms, w
 
 * Travis (MacOS, Linux, soon Windows). Refer to [Travis docs](https://docs.travis-ci.com/), for instance [the page about uploading artefacts](https://docs.travis-ci.com/user/uploading-artifacts/).
 
-* Other CI surely have something similar.
+* Other CI services surely support similar options. 
+
+Looking for help with one of these non R-hub CI services? LINK TO HOW TO GET HELP
